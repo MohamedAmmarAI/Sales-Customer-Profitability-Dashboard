@@ -15,7 +15,8 @@ An interactive Tableau dashboard built to analyze U.S. sales, profit, returns, a
 
 👉 https://public.tableau.com/app/profile/mohamed.ammar8125/viz/FinalProject_17464277812200/BusinessPerformancedashboard
 
-## 📁 Repository Contents
+![image](https://github.com/user-attachments/assets/e8e17c91-85d7-41a9-805c-8cac6deffa39)
+
 
 
 
